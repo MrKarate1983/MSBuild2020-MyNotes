@@ -8,4 +8,10 @@ About MakeCode— aka.ms/makecode
 Online MakeCode editors— makecode.com  
 Buy hardware— aka.ms/makecodestart  
 Arcade curriculum— arcade.makecode.com/courses  
-MakeCode Forum— forum.makecode.com
+MakeCode Forum— forum.makecode.com  
+https://github.com/microsoft/pxt  
+There's a section on tablet and mobile apps here https://microbit.org/code/  
+https://makecode.microbit.org/  
+MakeCode is the official framework, but Blockly is used underneath https://github.com/microsoft/pxt-blockly  
+https://makecode.com/_5bCU3xVpoVWF  
+
