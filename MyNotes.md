@@ -1,0 +1,6 @@
+https://docs.microsoft.com/es-es/archive/msdn-magazine/2015/december/game-development-babylon-js-building-a-basic-game-for-the-web  
+https://docs.microsoft.com/es-es/azure/cognitive-services/?wt.mc_id=build2020_ca-video-dmitryso  
+https://azure.microsoft.com/es-es/services/cognitive-services/?WT.mc_id=build2020_ca-event-dmitryso  
+https://docs.microsoft.com/es-es/learn/paths/explore-computer-vision-microsoft-azure/?WT.mc_id=build2020_ca-event-dmitryso  
+https://docs.microsoft.com/es-es/visualstudio/online/overview/what-is-vsonline?WT.mc_id=build2020_ca-event-dmitryso  
+https://soshnikov.com/museum/peopleblenderbot/  
