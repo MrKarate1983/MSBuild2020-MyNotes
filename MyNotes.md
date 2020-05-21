@@ -4,3 +4,8 @@ https://azure.microsoft.com/es-es/services/cognitive-services/?WT.mc_id=build202
 https://docs.microsoft.com/es-es/learn/paths/explore-computer-vision-microsoft-azure/?WT.mc_id=build2020_ca-event-dmitryso  
 https://docs.microsoft.com/es-es/visualstudio/online/overview/what-is-vsonline?WT.mc_id=build2020_ca-event-dmitryso  
 https://soshnikov.com/museum/peopleblenderbot/  
+About MakeCode— aka.ms/makecode  
+Online MakeCode editors— makecode.com  
+Buy hardware— aka.ms/makecodestart  
+Arcade curriculum— arcade.makecode.com/courses  
+MakeCode Forum— forum.makecode.com
